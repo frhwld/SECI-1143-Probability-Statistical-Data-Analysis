@@ -15,8 +15,6 @@ This repository was created to share notes, resources, and materials for **SECI-
 | Folder | Description |
 |--------|-------------|
 | `Assignments` | Submitted individual/group coursework |
-| `Past Year Papers` | Practice questions and solutions |
-| `Tools & Resources` | Formula sheets, software tips, and reference materials |
 
 ---
 
